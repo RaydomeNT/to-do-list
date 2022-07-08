@@ -8,10 +8,13 @@ const ToDo = ({todo, handleToggle}) => {
     }
 
     return (
-        <div id={todo.id} key={todo.id + todo.task} name="todo" value={todo.id} onClick={handleClick} className={todo.complete ? "todo strike" : "todo"}>
+        <div id={todo.id} key={todo.id + todo.task} name="todo" value={todo.id} onClick={handleClick} className={todo.complete ? "todo strike" : "todo"}
+        style={{
+            textDecorationColor: 'red', textDecorationThickness: 2
+          }}>
             {todo.task}
         </div>
     );
-};
+}
 
 export default ToDo;
