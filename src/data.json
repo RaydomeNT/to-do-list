@@ -1,0 +1,81 @@
+[{
+    "id": 1,
+    "task": "Learn HTML & CSS",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Submit website clone",
+    "complete": true
+  }, {
+    "id": 3,
+    "task": "Bribe tutors",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Learn basic javascript",
+    "complete": true
+  }, {
+    "id": 5,
+    "task": "Learn MySQL",
+    "complete": false
+  }, {
+    "id": 6,
+    "task": "Submit testing activities",
+    "complete": true
+  }, {
+    "id": 7,
+    "task": "Submit dice game",
+    "complete": true
+  }, {
+    "id": 8,
+    "task": "Become a coding wizard",
+    "complete": false
+  }, {
+    "id": 9,
+    "task": "Create cyber pet",
+    "complete": true
+  }, {
+    "id": 10,
+    "task": "Retire early",
+    "complete": false
+  }, {
+    "id": 11,
+    "task": "Use Trello",
+    "complete": true
+  }, {
+    "id": 12,
+    "task": "Know what a library is",
+    "complete": true
+  }, {
+    "id": 13,
+    "task": "Learn about MongoDB",
+    "complete": false
+  }, {
+    "id": 14,
+    "task": "Graduate",
+    "complete": false
+  }, {
+    "id": 15,
+    "task": "Sky dive",
+    "complete": false
+  }, {
+    "id": 16,
+    "task": "Bungee jump",
+    "complete": false
+  }, {
+    "id": 17,
+    "task": "Buy new laptop",
+    "complete": true
+  }, {
+    "id": 18,
+    "task": "Create a full stack web app",
+    "complete": false
+  }, {
+    "id": 19,
+    "task": "Visit Australia and New Zealand",
+    "complete": false
+  }, {
+    "id": 20,
+    "task": "Get a career in development",
+    "complete": false
+  }]
